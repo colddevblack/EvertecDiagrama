@@ -1,0 +1,14 @@
+C:\Users\Cold\Documents\Diagrama\Diagrama\obj\Debug\netcoreapp3.1\Diagrama.csproj.AssemblyReference.cache
+C:\Users\Cold\Documents\Diagrama\Diagrama\obj\Debug\netcoreapp3.1\Diagrama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cold\Documents\Diagrama\Diagrama\obj\Debug\netcoreapp3.1\Diagrama.AssemblyInfoInputs.cache
+C:\Users\Cold\Documents\Diagrama\Diagrama\obj\Debug\netcoreapp3.1\Diagrama.AssemblyInfo.cs
+C:\Users\Cold\Documents\Diagrama\Diagrama\obj\Debug\netcoreapp3.1\Diagrama.csproj.CoreCompileInputs.cache
+C:\Users\Cold\Documents\Diagrama\Diagrama\bin\Debug\netcoreapp3.1\Diagrama.exe
+C:\Users\Cold\Documents\Diagrama\Diagrama\bin\Debug\netcoreapp3.1\Diagrama.deps.json
+C:\Users\Cold\Documents\Diagrama\Diagrama\bin\Debug\netcoreapp3.1\Diagrama.runtimeconfig.json
+C:\Users\Cold\Documents\Diagrama\Diagrama\bin\Debug\netcoreapp3.1\Diagrama.runtimeconfig.dev.json
+C:\Users\Cold\Documents\Diagrama\Diagrama\bin\Debug\netcoreapp3.1\Diagrama.dll
+C:\Users\Cold\Documents\Diagrama\Diagrama\bin\Debug\netcoreapp3.1\Diagrama.pdb
+C:\Users\Cold\Documents\Diagrama\Diagrama\obj\Debug\netcoreapp3.1\Diagrama.dll
+C:\Users\Cold\Documents\Diagrama\Diagrama\obj\Debug\netcoreapp3.1\Diagrama.pdb
+C:\Users\Cold\Documents\Diagrama\Diagrama\obj\Debug\netcoreapp3.1\Diagrama.genruntimeconfig.cache
